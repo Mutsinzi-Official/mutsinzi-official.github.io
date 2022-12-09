@@ -21,5 +21,13 @@ height: 10%;
 align-items: bottom;
 background-color: #D6E9FE; /* Light blue */
 }
+
+table, th, td {
+
+border-collapse: collapse;
+
+border: 1px solid black;
+
+}
 	
 
