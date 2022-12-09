@@ -37,6 +37,9 @@ border: 1px solid black;
 th{
  border-collapse: collapse;
  border: 1px solid black;
+	
+	color: blue;
+ background-color: pink;
 } 
 
 tr{
