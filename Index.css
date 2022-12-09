@@ -22,12 +22,30 @@ align-items: bottom;
 background-color: #D6E9FE; /* Light blue */
 }
 
-table, th, td {
-
+table{
+ border-collapse: collapse;
+ border: 1px solid black;
+ width: 100%;
+ }
+ 
+ thead{
 border-collapse: collapse;
-
 border: 1px solid black;
+ 	
+} 
 
-}
+th{
+ border-collapse: collapse;
+ border: 1px solid black;
+} 
+
+tr{
+border-collapse: collapse;
+border: 1px solid black;
+} 
+
+td{
+ border-collapse: collapse;
+ border: 1px solid black;
+} 
 	
-
