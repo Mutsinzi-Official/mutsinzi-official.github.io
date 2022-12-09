@@ -5,7 +5,7 @@ box-sizing: border-box;
 }
 
 .menu {
-height: 100%;
+height: 90%;
 background-color: #D6E9FE; /* Light blue */
 }
 
@@ -17,7 +17,7 @@ float: 0"
 
 footer {
 clear: both; /* Add this */
-height: 50px;
+height: 10%;
 align-items: bottom;
 background-color: #D6E9FE; /* Light blue */
 }
