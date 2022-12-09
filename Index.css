@@ -1,0 +1,25 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+.menu {
+height: 100%;
+background-color: #D6E9FE; /* Light blue */
+}
+
+img {
+height: 300px;
+width: 100%;
+float: 0" 
+} 
+
+footer {
+clear: both; /* Add this */
+height: 50px;
+align-items: bottom;
+background-color: #D6E9FE; /* Light blue */
+}
+	
+
