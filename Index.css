@@ -7,6 +7,13 @@ box-sizing: border-box;
 .menu {
 height: 90%;
 background-color: #D6E9FE; /* Light blue */
+	
+	
+	height: auto;
+width: auto;
+justify-content: inherit;
+align-items: inherit;
+
 }
 
 img {
