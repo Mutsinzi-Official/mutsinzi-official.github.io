@@ -4,16 +4,20 @@ padding: 0;
 box-sizing: border-box;
 }
 
-.menu {
-height: 90%;
-background-color: #D6E9FE; /* Light blue */
-	
-	
-	height: auto;
-width: auto;
-justify-content: inherit;
-align-items: inherit;
+.menu1 {
 
+background-color#D6E9FE; /* Light blue */
+
+height: auto;
+
+width: 900px;
+
+}
+
+.menu2 {
+background-color:#F5CF8E; /* Light blue */
+height: auto;
+width: 900px;
 }
 
 img {
