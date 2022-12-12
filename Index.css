@@ -22,7 +22,7 @@ width: 900px;
 
 
 
-footer {
+.footer {
 clear: both; /* Add this */
 height: 10%;
 align-items: bottom;
